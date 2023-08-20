@@ -1,0 +1,1 @@
+print("lord shiva is my teacher")
