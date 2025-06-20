@@ -1,45 +1,45 @@
-# 💻 100+ C Programming Examples 🚀
+# 🔧 C Programming Code Collection 💻
 
-Welcome to **100+ C Programs** — a curated collection of simple to advanced level C programs for beginners and intermediate learners! 📚  
-This repository is designed to help students understand C programming through hands-on coding practice and improve logic building.
+This repository is a comprehensive collection of C programs written for learning, practice, and mastering core programming concepts.  
+It is structured in a way that helps beginners, students, and anyone looking to strengthen their C fundamentals through hands-on examples.
 
 ---
 
-## 📂 What's Inside?
+## 📂 Topics Covered
 
-- ✅ Basic Syntax & Structure  
-- 🔢 Loops & Conditionals  
-- 📦 Arrays & Strings  
+- ✅ Basic Syntax & Input/Output  
+- 🔁 Loops & Conditionals  
+- 📊 Arrays & Strings  
 - 🧠 Functions & Recursion  
-- 🗃️ Structures & Pointers  
-- 📐 Math & Number Theory  
-- 💡 Pattern Printing  
-- 🧮 Sorting & Searching Algorithms  
+- 🔗 Pointers & Dynamic Memory  
+- 📐 Structures & Unions  
 - 💾 File Handling  
-- 🎯 Miscellaneous Logic Building Programs
+- 🧮 Algorithms (Sorting, Searching)  
+- 🔠 Pattern Printing  
+- 🧩 Logic Building Programs  
+- 📋 Miscellaneous Utility Scripts
 
 ---
 
 ## 🚀 Features
 
-- 100+ C programs with proper indentation and comments
-- Beginner-friendly, easy to navigate
-- Useful for college labs, assignments, and interviews
-- Continuously updated with more code snippets
+- Clean and well-commented C programs  
+- Beginner-friendly and logically organized  
+- Useful for assignments, lab work, and quick revision  
+- Cross-platform compatibility
 
 ---
 
 ## 🛠️ Tech Stack
 
 - Language: **C**
-- IDEs: Code::Blocks, Turbo C++, VS Code, or any C compiler
-- Platform: Windows/Linux/macOS
+- Compilers: GCC, Turbo C++, clang, etc.  
+- IDEs: Code::Blocks, Dev C++, VS Code, or any terminal-based compiler
 
 ---
 
-## 🧑‍💻 How to Use
+## 🧑‍💻 Getting Started
 
-1. **Clone this repository**
+1. **Clone the repository**
    ```bash
    git clone https://github.com/Avdheshupadhyay/C-programming.git
-
